@@ -18,7 +18,7 @@ An interactive Shiny application that visualizes machine learning predictions fo
 - Python-based Shiny web application for healthcare professionals
 
 **Key Features:**
-- Real-time exploration of feature importance with Beta Blockers as top predictor
+- Exploration of feature importance with Beta Blockers as top predictor
 - Individual patient risk analysis with detailed explanations
 - Medication impact visualization showing how different prescriptions affect risk
 - Customizable visualizations with adjustable parameters
