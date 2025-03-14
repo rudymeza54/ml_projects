@@ -26,7 +26,7 @@ An interactive Shiny application that visualizes machine learning predictions fo
 ## Live Demo
 
 Explore the live demo of the Tariff Impact Analysis Dashboard:  
-👉 [Shiny App]([https://tariffimpact.netlify.app/](https://rudy-meza.shinyapps.io/hypertension_shap1/))
+👉 [Shiny App](https://tariffimpact.netlify.app/](https://rudy-meza.shinyapps.io/hypertension_shap1/)
 
 
 ### IMDB Movies Challenge
