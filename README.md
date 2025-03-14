@@ -23,9 +23,15 @@ An interactive Shiny application that visualizes machine learning predictions fo
 - Medication impact visualization showing how different prescriptions affect risk
 - Customizable visualizations with adjustable parameters
 
+## Live Demo
+
+Explore the live demo of the Tariff Impact Analysis Dashboard:  
+👉 [Shiny App]([https://tariffimpact.netlify.app/](https://rudy-meza.shinyapps.io/hypertension_shap1/))
+
+
 ### IMDB Movies Challenge
 
-A comprehensive ETL and analysis project examining a large-scale IMDB dataset (5.1M+ rows) with special focus on comparing Quentin Tarantino's filmography against industry standards.
+A comprehensive ETL and analysis project examining a large-scale IMDB dataset (5.1M+ rows) with a special focus on comparing Quentin Tarantino's filmography against industry standards.
 
 **Technical Highlights:**
 - Docker-containerized architecture with Jupyter/PySpark and PostgreSQL
